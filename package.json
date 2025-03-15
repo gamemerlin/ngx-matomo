@@ -20,6 +20,7 @@
     "url": "https://github.com/Arnaud73/ngx-matomo/issues"
   },
   "homepage": "https://github.com/Arnaud73/ngx-matomo#readme",
+  "main": "dist/ngx-matomo",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
